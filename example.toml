@@ -1,0 +1,62 @@
+[book]
+title = "Radio Controlled Vehicles"
+author = "Wikimedia Foundation, Inc."
+cover_image_url = "https://upload.wikimedia.org/wikipedia/commons/c/c7/Hyper8.jpg"
+
+
+[[chapters]]
+title = "Radio Control"
+
+[[chapters]]
+title = "Radio-controlled model"
+
+[[chapters]]
+title = "Radio-controlled aircraft"
+
+[[chapters]]
+title = "Radio-controlled boat"
+
+[[chapters]]
+title = "Radio-controlled car"
+
+[[chapters]]
+title = "Radio-controlled glider"
+
+[[chapters]]
+title = "Radio-controlled helicopter"
+
+[[chapters]]
+title = "Radio-controlled hovercraft"
+
+[[chapters]]
+title = "Radio-controlled submarine"
+
+[[chapters]]
+title = "Robot combat"
+
+[[chapters]]
+title = "Drone racing"
+
+[[chapters]]
+title = "Model yachting"
+
+[[chapters]]
+title = "Rudder"
+
+[[chapters]]
+title = "Throttle"
+
+[[chapters]]
+title = "Transmitter"
+
+[[chapters]]
+title = "Servomechanism"
+
+[[chapters]]
+title = "Electric motor"
+
+[[chapters]]
+title = "Unmanned aerial vehicle"
+
+[[chapters]]
+title = "Scale model"
