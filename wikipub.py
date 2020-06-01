@@ -21,6 +21,8 @@ import wikipediaapi
 
 from ebooklib import epub
 
+__version__ = "0.1.0"
+
 wiki = wikipediaapi.Wikipedia("en", extract_format=wikipediaapi.ExtractFormat.HTML)
 
 book = epub.EpubBook()
@@ -28,7 +30,7 @@ book = epub.EpubBook()
 parser = argparse.ArgumentParser()
 parser.add_argument(
     "conf",
-    help="Path to TOML book configuration file to use. The ouput file will share the same name and location unless otherwise specified.",
+    help="Path to TOML book configuration file to use. The output file will share the same name and location unless otherwise specified.",
     type=str,
 )
 parser.add_argument(
