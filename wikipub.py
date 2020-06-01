@@ -44,7 +44,7 @@ parser.add_argument(
 
 def load_conf(path: Path) -> dict:
     conf = {}
-    with Path("book.toml").open() as fp:
+    with path.open() as fp:
         conf = toml.load(fp)
     return conf
 
